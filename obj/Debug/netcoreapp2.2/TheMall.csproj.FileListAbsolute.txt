@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/TheMall/bin/Debug/netcoreapp2.2/TheMall.deps.json
+/Users/dekhaji/workspace/csharp/TheMall/bin/Debug/netcoreapp2.2/TheMall.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/TheMall/bin/Debug/netcoreapp2.2/TheMall.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/TheMall/bin/Debug/netcoreapp2.2/TheMall.dll
+/Users/dekhaji/workspace/csharp/TheMall/bin/Debug/netcoreapp2.2/TheMall.pdb
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.dll
+/Users/dekhaji/workspace/csharp/TheMall/obj/Debug/netcoreapp2.2/TheMall.pdb
